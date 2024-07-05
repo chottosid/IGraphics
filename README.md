@@ -6,6 +6,7 @@ This project was for an an academic course. Woodland Escapade is a FPS game writ
 ![image](https://github.com/chottosid/Woodland-Escapade/assets/103878405/ff658bde-347c-4fa5-8ef3-3e46407e4aaa)
 ![image](https://github.com/chottosid/Woodland-Escapade/assets/103878405/3be65a51-961c-4a4d-937c-852371d0ddc7)
 
-
+# Configuration
+Run Woodland_Escapade.cpp to launch the game.
 # Demo Video
 https://www.facebook.com/fatmathman/videos/326300982824301/
